@@ -38,6 +38,10 @@ class ToDoList {
             print("Task: \(item.title), status: \(item.status)")
         }
     }
+    func deletAll(){
+            mytodolist.removeAll()
+            print("Successfully removed")
+        }
     
     func update(index:Int,change :TaskItem){
         if (index > self.mytodolist.count) {
