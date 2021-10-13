@@ -12,7 +12,8 @@
 - getOneitem: func getOneItem (byIndex : Int)
 
 #Favorite Func
- getByStatus exposure Status (completed,pending )
+ - getByStatus exposure 
+ Status (completed,pending )
 l Feel so good I didn't do it especially didn't completed
 
 #Upcoming Features
