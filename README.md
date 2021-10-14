@@ -1,6 +1,6 @@
 # ProgramName:todolist
 ## About my program :
-### This is my first time making a program , A program that arranges the task of the week with many options
+### This is my first time making a program , A program that arranges the tasks of the week with many options
 
 #Usage
 - Add : func addmytodo(mytodo: TaskItem)
@@ -14,7 +14,7 @@
 #Favorite Func
  - getByStatus exposure 
  Status (completed,pending )
-l Feel so good I didn't do it especially didn't completed
+When I'm doing this things I Feel so good , Especially when I doing completed
 
 #Upcoming Features
 -sortList by Date
