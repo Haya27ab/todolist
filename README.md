@@ -3,6 +3,8 @@
 ### This is my first time making a program , A program that arranges the tasks of the week with many options
 
 #Usage
+- enum TaskStatus
+- struct TaskItem 
 - Add : func addmytodo(mytodo: TaskItem)
 - ReadAllTask :  func readAll()  
 - getByStatus: func getByStatus(status: TaskStatus)
